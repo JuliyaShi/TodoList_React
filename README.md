@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+You can see manual deployment here react-todolist-withloader.netlify.app
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
